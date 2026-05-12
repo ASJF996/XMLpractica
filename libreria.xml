@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
 <<<<<<< HEAD
-  <Novelas>
+ 
   <libro category="cooking">
     <titulo lang="en"></titulo>
 =======
@@ -42,5 +42,5 @@
     <keyword>computadoras</keyword>
     <keyword>xml</keyword>
   </libro>
-  </Novelas>
+  
 </biblioteca>
