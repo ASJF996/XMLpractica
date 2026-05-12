@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+  <libro category="cooking">
+    <titulo lang="en"></titulo>
+    <autor>Giada De Laurentiis</autor>
+    <año>2005</año>
+    <precio>30.00</precio>
+  </libro>
+  <libro category="children">
+    <titulo lang="en">Harry Potter</titulo>
+    <autor>J K. Rowling</autor>
+    <año>2005</año>
+    <precio>399</precio>
+  </libro>
+  <libro category="web">
+    <titulo lang="en">Learning XML</titulo>
+    <autor>Erik T. Ray</autor>
+    <año>2003</año>
+    <precio>39.95</precio>
+  </libro>
+</biblioteca>
