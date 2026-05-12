@@ -1,23 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
+<<<<<<< HEAD
   <Novelas>
   <libro category="cooking">
     <titulo lang="en"></titulo>
+=======
+  <libro category="cocina">
+    <titulo lang="en">Comida Italiana</titulo>
+>>>>>>> 38d868e63a46913f55d20866de374e4a38129005
     <autor>Giada De Laurentiis</autor>
     <año>2005</año>
     <precio>30.00</precio>
+    <editorial>Espiga</editorial>
+    <disponibilidad>disponible</disponibilidad>
+    <codigo>17i68mln</codigo>
+    <palabrasClave>
+    <keyword>comida</keyword>
+    <keyword>italia</keyword>
   </libro>
-  <libro category="children">
+  <libro category="infantil">
     <titulo lang="en">Harry Potter</titulo>
     <autor>J K. Rowling</autor>
     <año>2005</año>
     <precio>399</precio>
+    <editorial>Arteaga</editorial>
+    <disponibilidad>disponible</disponibilidad>
+    <codigo>48j28mpy</codigo>
+    <palabrasClave>
+    <keyword>magia</keyword>
+    <keyword>aventura</keyword>
   </libro>
   <libro category="web">
     <titulo lang="en">Learning XML</titulo>
     <autor>Erik T. Ray</autor>
     <año>2003</año>
     <precio>39.95</precio>
+    <editorial>Penguin</editorial>
+    <disponibilidad>disponible</disponibilidad>
+    <codigo>13t20raz</codigo>
+    <palabrasClave>
+    <keyword>computadoras</keyword>
+    <keyword>xml</keyword>
   </libro>
   </Novelas>
 </biblioteca>
