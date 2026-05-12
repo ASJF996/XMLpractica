@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
+  <Novelas>
   <libro category="cooking">
     <titulo lang="en"></titulo>
     <autor>Giada De Laurentiis</autor>
@@ -18,4 +19,5 @@
     <año>2003</año>
     <precio>39.95</precio>
   </libro>
+  </Novelas>
 </biblioteca>
